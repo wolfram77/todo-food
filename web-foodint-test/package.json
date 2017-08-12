@@ -1,0 +1,29 @@
+{
+  "name": "foodint",
+  "version": "0.0.0",
+  "description": "food internals",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wolfram77/web-foodint.git"
+  },
+  "keywords": [
+    "food"
+  ],
+  "author": "wolfram77@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wolfram77/web-foodint/issues"
+  },
+  "homepage": "https://github.com/wolfram77/web-foodint#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "lodash": "^4.17.4",
+    "md5": "^2.2.1",
+    "pg": "^6.4.0"
+  }
+}
